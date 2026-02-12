@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Ho Chi Minh University of Technology<br>👯 I’m looking to collaborate on AI Project/ AI Research<br>🌱 I’m currently learning ML/DL and Computer Vision
+🔭 I’m currently studying at Ho Chi Minh University of Technology<br>👯 I’m looking to collaborate on AI Engineer/ AI Research<br>🌱 I’m currently learning ML/DL and Computer Vision
 
 
 ## 🌐 Socials:
